@@ -2,7 +2,10 @@
  [![Linkedin Badge](https://img.shields.io/badge/-jonaschan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jonaschan/)[![Gmail Badge](https://img.shields.io/badge/-JChanCode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:JChanCode@gmail.com)](mailto:JChanCode@gmail.com)
  [![GitHub JchanCode](https://img.shields.io/github/followers/JchanCode?label=follow&style=social)](https://github.com/JchanCode)
  
- I am a Full-Stack Developer based in Brooklyn, New York actively seeking opportunities.
+
+My name is Jonas, I’ve been cooking delicious meals professionally for the past decade. I had the pleasure of working alongside some of the most dedicated, hardworking teams, and talented Michelle Star chefs in NYC. Due to various reasons, I have to let this dream go in 2020 and pursue another passion of mine.
+I am now a Full-Stack Developer based in Brooklyn, New York actively seeking opportunities.
+
  
 
 
