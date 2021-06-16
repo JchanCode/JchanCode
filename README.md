@@ -1,4 +1,4 @@
- ##👋 Hi, I’m Chun Chan (Jonas)
+## 👋 Hi, I’m Chun Chan (Jonas)
  [![Linkedin Badge](https://img.shields.io/badge/-jonaschan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jonaschan/)[![Gmail Badge](https://img.shields.io/badge/-JChanCode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:JChanCode@gmail.com)](mailto:JChanCode@gmail.com)
  [![GitHub JchanCode](https://img.shields.io/github/followers/JchanCode?label=follow&style=social)](https://github.com/JchanCode)
  
