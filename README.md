@@ -3,9 +3,9 @@
  [![GitHub JchanCode](https://img.shields.io/github/followers/JchanCode?label=follow&style=social)](https://github.com/JchanCode)
  
 
-My name is Jonas, I’ve been cooking delicious meals professionally for the past decade. I had the pleasure of working alongside some of the most dedicated, hardworking teams, and talented Michelle Star chefs in NYC. Due to various reasons, I have to let this dream go in 2020 and pursue another passion of mine.
-I am now a Full-Stack Developer based in Brooklyn, New York actively seeking opportunities.
-
+	Hi, I’m Jonas Chan, a recent Software Engineering Bootcamp graduate amid a necessary career change. I’ve cooked in some of the most demanding Michelin star kitchens, proudly creating damn delicious food for New Yorkers for the past decade. During this time, I have grown leaps and bounds as a person, chef, and leader.
+	I’m happily engaged and planning to start a family with my fiancee. But as a Chef, It’s near impossible to find a healthy work/life balance. Imagine missing out on most of your children’s “first” because of work demands or working on big holidays instead of spending time with family at home. My priority has shifted from my younger days. As easy as following my passion neck-deep into the culinary world, now I’m plunging headfirst into the exciting world of coding. I have no plans on going back.
+	My nine months in Springboard were challenging, I’m not going to lie, but I firmly believe I have what it takes to become a developer. I’ve learned a ton in Springboard, from frontend and backend development to databases, data structures, and algorithms. With urgency, I continue to build upon my foundation from Springboard, further developing my coding skills, expanding my network, and creating new projects.
  
 
 
