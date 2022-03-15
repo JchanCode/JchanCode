@@ -3,26 +3,20 @@
  [![GitHub JchanCode](https://img.shields.io/github/followers/JchanCode?label=follow&style=social)](https://github.com/JchanCode)
  
 
-  Hi, I’m Jonas Chan, a recent Software Engineering Bootcamp graduate amid a necessary career change. 
-I’ve cooked in some of the most demanding Michelin star kitchens, proudly creating damn delicious food for New Yorkers for the past decade.
-During this time, I have grown leaps and bounds as a person, chef, and leader.
-<br>
-  I’m happily engaged and planning to start a family with my fiancee. But as a Chef, It’s near impossible to find a healthy work/life balance. 
-Imagine missing out on most of your children’s “first” because of work demands or working on big holidays instead of spending time with family at home. 
-My priority has shifted from my younger days. As easy as following my passion neck-deep into the culinary world, now I’m plunging headfirst into the exciting world of coding. I have no plans on going back.
-<br>
-  My nine months in Springboard were challenging, I’m not going to lie, but I firmly believe I have what it takes to become a developer. I’ve learned a ton in Springboard, from frontend and backend development to databases, data structures, and algorithms. With urgency, I continue to build upon my foundation from Springboard, further developing my coding skills, expanding my network, and creating new projects.
- 
+I'm an Application Engineer I at Vanguard, doing front-end and back-end work for our clients to help plan and track their retirement and financial goals. It's a challenging space to work in; we are dealing with people's life saving after all. But we still work hard at giving the client what they want plus a little more. They don't always like it but building the logic and tweaking the stylesheets is where you'll find me.
+ Before being a Developer, I was a Sous Chef at some of the best restaurants in NYC, either pretending to know what I was doing or trying not to burn things. Still, one thing for sure is that I was always working hard.
+ It's a tough transition, it's hard, but lessons from the kitchen have guided me every day as a developer. I'm nowhere near where I want to be yet, but craft takes time. And here's the page to that document that journey.
 
 
 ## 🌱 I’m currently learning ...
-![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Angular](https://img.shields.io/badge/-ANGULAR-black?style=flat-square&logo=angular)
+![RXJS](https://img.shields.io/badge/-Rxjs-black?style=flat-square&logo=rxjs)
 
 ## 👀 I’m interested in ...
 Cooking , Eating (Sadly I can do both well :smirk:), Coding, Coral Reef Tanks, Manga, and UFC.
 
 ## Languages and Tools:
+  ![Typescipt](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript) 
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 <br>
