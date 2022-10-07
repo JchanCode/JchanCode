@@ -14,7 +14,7 @@ I'm an Application Engineer I at Vanguard, doing front-end and back-end work for
 ![AWS]
 
 ## 👀 I’m interested in ...
-Cooking , Eating (I can do both well :smirk:), Coding, Coral Reef Tanks, Manga, and UFC.
+Cooking , Eating (I can do both really well :smirk:), Coding, Coral Reef Tanks, Manga, and UFC.
 
 ## Languages and Tools:
   ![Typescipt](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript) 
