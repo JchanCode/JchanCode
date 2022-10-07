@@ -11,7 +11,7 @@ I'm an Application Engineer I at Vanguard, doing front-end and back-end work for
 ## 🌱 I’m currently learning ...
 ![Angular](https://img.shields.io/badge/-ANGULAR-black?style=flat-square&logo=angular)
 ![RXJS](https://img.shields.io/badge/-Rxjs-black?style=flat-square&logo=rxjs)
-![AWS]
+![AWS](https://img.shields.io/badge/-AWS-red)
 
 ## 👀 I’m interested in ...
 Cooking , Eating (I can do both really well :smirk:), Coding, Coral Reef Tanks, Manga, and UFC.
